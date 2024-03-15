@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mohani7601)](https://solved.ac/mohani7601)
 <img src="http://mazandi.herokuapp.com/api?handle=mohani7601&theme=cold"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syous154&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syous154&show_icons=true)
