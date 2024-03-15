@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=syous154's%20github&fontSize=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=syous154's%20github&fontSize=55)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mohani7601)](https://solved.ac/mohani7601)
 <img src="http://mazandi.herokuapp.com/api?handle=mohani7601&theme=cold"/>
