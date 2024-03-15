@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 <img src="http://mazandi.herokuapp.com/api?handle=mohani7601&theme=cold"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syous154&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syous154&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syous154&langs_count=8&layout=donut)
