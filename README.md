@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mohani7601)](https://solved.ac/mohani7601)
 <img src="http://mazandi.herokuapp.com/api?handle=mohani7601&theme=cold"/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syous154)](https://github.com/syous154/github-readme-stats)
