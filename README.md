@@ -35,6 +35,9 @@ Here are some ideas to get you started:
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 
+📖 Studying...
+
+ ![Spring boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white)
 ---
 
 [![Solved.ac
