@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 - [AI 스마트 재고 관리 솔루션 StockSense](https://github.com/syous154/StockSense)
 - [HTP 심리상담 서비스](https://github.com/syous154/Side-Project)
 - [Hand bone Segmentation](https://github.com/syous154/Hand-Bone-Semanticsegmentation)
+- [다국어 영수증 OCR(Data-Centric)](https://github.com/syous154/level2-cv-datacentric-cv-10)
 - [재활용 품목 분류를 위한 Object Detection](https://github.com/syous154/level2-objectdetection-cv-10)
 - [스케치 이미지 데이터 Classification](https://github.com/syous154/Sketch-image-Classification)
 - [동영상 내 개인정보 비식별화](https://github.com/syous154/Capstone3)
