@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 📚 Prjects
+### 📚 Projects
 
 - [AI 스마트 재고 관리 솔루션 StockSense](https://github.com/syous154/StockSense)
 - [HTP 심리상담 서비스](https://github.com/syous154/Side-Project)
