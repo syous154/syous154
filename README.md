@@ -52,4 +52,4 @@ Here are some ideas to get you started:
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mohani7601)](https://solved.ac/mohani7601)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syous154&show_icons=true&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syous154&langs_count=8&layout=donut)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syous154&langs_count=8&layout=donut) -->
