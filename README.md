@@ -21,34 +21,51 @@ Here are some ideas to get you started:
     - 컴퓨터과학전공, 정밀의료융합전공(복)
     - GPA: 4.06/4.5
 
-- Naver Boost Camp - AI Tech 7th (CV) (2024.08 – 2025.02)
-- 구글 ML 부트캠프 (2024.06 – 2024.10)
-- 컴퓨터비전 & 의료영상처리 연구실 (CVMIP) (2023.09 – 2024.07)
+-------
+
+### 💼 Experience
+
+| 활동 | 내용 | 주최 기관 | 기간 |
+|:---:|:---:|:---:|:---:|
+| 인턴 | Segmentatoin 프로젝트 진행 | Komapper | 2025.06 - |
+| Naver Boost Camp | Computer Vision | 네이버 커넥트재단 | 2024.08 – 2025.02 |
+| 구글 ML 부트캠프 | Machine Learning | Google for Developers | 2024.06 – 2024.10 |
+| 하계 현장실습 | Object Detection 프로젝트 진행 | Connected-in | 2024.07 – 2024.08 |
+| 학부연구생 | 논문 공부 & 논문 구현 | 컴퓨터비전 & 의료영상처리 연구실 (CVMIP) | 2023.09 – 2024.07 |
 
 -------
 
-### 🛠️ Experience
-- KO-MAPPER 인턴 (2025.06 - )
-- 하계 현장실습(Connected-in) (2024.07 – 2024.08)
+### 🛠️ Tech Stack
 
--------
+- Language
 
-| **Language** | **Communication** | **AI** | **Tools** |
-|--------------|--------------------|--------|-----------|
-| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) <img alt="SQL" src="https://img.shields.io/badge/SQL-blue.svg?style=for-the-badge&logo=sql&logoColor=white"/> | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FF6B6B.svg?style=for-the-badge&logo=huggingface&logoColor=white) | ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) |
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) <img alt="SQL" src="https://img.shields.io/badge/SQL-blue.svg?style=for-the-badge&logo=sql&logoColor=white"/>
+
+- Communication
+
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+- AI
+
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FF6B6B.svg?style=for-the-badge&logo=huggingface&logoColor=white)
+
+- Tools
+
+![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
 
 ---
 
 ### 📚 Projects
 
-- [Crack Segmentation](https://github.com/syous154/Crack-Segmentation)
-- [AI 스마트 재고 관리 솔루션 StockSense](https://github.com/syous154/StockSense)
-- [HTP 심리상담 서비스](https://github.com/syous154/Side-Project)
-- [Hand bone Segmentation](https://github.com/syous154/Hand-Bone-Semanticsegmentation)
-- [다국어 영수증 OCR(Data-Centric)](https://github.com/syous154/level2-cv-datacentric-cv-10)
-- [재활용 품목 분류를 위한 Object Detection](https://github.com/syous154/level2-objectdetection-cv-10)
-- [스케치 이미지 데이터 Classification](https://github.com/syous154/Sketch-image-Classification)
-- [동영상 내 개인정보 비식별화](https://github.com/syous154/Capstone3)
+- Crack Segmentation [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syous154/Crack-Segmentation)
+- AI 스마트 재고 관리 솔루션 StockSense [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syous154/StockSense)
+- HTP 심리상담 서비스 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syous154/Side-Project)
+- Hand bone Segmentation [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syous154/Hand-Bone-Semanticsegmentation)
+- 다국어 영수증 OCR(Data-Centric) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syous154/level2-cv-datacentric-cv-10)
+- 재활용 품목 분류를 위한 Object Detection [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syous154/level2-objectdetection-cv-10)
+- 스케치 이미지 데이터 Classification [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syous154/Sketch-image-Classification)
+- 동영상 내 개인정보 비식별화 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syous154/Capstone3)
 
 
 <!-- 📖 Studying... -->
