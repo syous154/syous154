@@ -58,14 +58,14 @@ Here are some ideas to get you started:
 
 ### 📚 Projects
 
-- Crack Segmentation [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syous154/Crack-Segmentation)
-- AI 스마트 재고 관리 솔루션 StockSense [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syous154/StockSense)
-- HTP 심리상담 서비스 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syous154/Side-Project)
-- Hand bone Segmentation [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syous154/Hand-Bone-Semanticsegmentation)
-- 다국어 영수증 OCR(Data-Centric) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syous154/level2-cv-datacentric-cv-10)
-- 재활용 품목 분류를 위한 Object Detection [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syous154/level2-objectdetection-cv-10)
-- 스케치 이미지 데이터 Classification [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syous154/Sketch-image-Classification)
-- 동영상 내 개인정보 비식별화 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syous154/Capstone3)
+- Crack Segmentation [link](https://github.com/syous154/Crack-Segmentation)
+- AI 스마트 재고 관리 솔루션 StockSense [link](https://github.com/syous154/StockSense)
+- HTP 심리상담 서비스 [link](https://github.com/syous154/Side-Project)
+- Hand bone Segmentation [link](https://github.com/syous154/Hand-Bone-Semanticsegmentation)
+- 다국어 영수증 OCR(Data-Centric) [link](https://github.com/syous154/level2-cv-datacentric-cv-10)
+- 재활용 품목 분류를 위한 Object Detection [link](https://github.com/syous154/level2-objectdetection-cv-10)
+- 스케치 이미지 데이터 Classification [link](https://github.com/syous154/Sketch-image-Classification)
+- 동영상 내 개인정보 비식별화 [link](https://github.com/syous154/Capstone3)
 
 
 <!-- 📖 Studying... -->
