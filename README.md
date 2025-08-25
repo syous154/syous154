@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 | 활동 | 내용 | 주최 기관 | 기간 |
 |:---:|:---:|:---:|:---:|
-| 인턴 | Segmentatoin 프로젝트 진행 | Komapper | 2025.06 - |
+| 인턴 | Segmentatoin 프로젝트 진행 | Komapper | 2025.06 - 2025.08 |
 | Naver Boost Camp | Computer Vision | 네이버 커넥트재단 | 2024.08 – 2025.02 |
 | 구글 ML 부트캠프 | Machine Learning | Google for Developers | 2024.06 – 2024.10 |
 | 하계 현장실습 | Object Detection 프로젝트 진행 | Connected-in | 2024.07 – 2024.08 |
